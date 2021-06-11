@@ -1,0 +1,21 @@
+{
+  "name": "MERN-21",
+  "version": "1.0.0",
+  "description": "MERN: Google Books Search",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karina1023/MERN-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karina1023/MERN-21/issues"
+  },
+  "homepage": "https://github.com/Karina1023/MERN-21#readme"
+}
